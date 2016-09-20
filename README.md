@@ -1,5 +1,6 @@
 # usage
 
 - save link
-- save code snippets
-- discribe API usage with example
+- archive code snippets
+- describe API usage with example
+- discuss long term topic on issuse page
